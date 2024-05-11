@@ -4,3 +4,8 @@
 Соединение локальную репозиторию с удаленный реп.: git remote add origin git@github.com:nurasylkaiyr/test.git
 Статус: git status
 Добавить определенные файлы для коммита: git add .readme.txt
+Коммит: git commit -m "message"
+Информация об коммитах: git log
+Вернуться к определенному коммиту: git checkout 0a1fa6878e481e83b91e48cdf2c4f2b3b969da20
+Опубликовать коммиты на удаленную репозиторию: git push origin2{имя репозитория} master{ветка}
+Скачивает все изменений из удаленную на локальную репозиторию: git pull origin2{имя репозитория} master{ветка}
