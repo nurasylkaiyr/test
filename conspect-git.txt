@@ -1,0 +1,6 @@
+Задать имя пользолвателя: git config --global user.name "Kaiyr Nurasyl"
+Задать почту пользолвателя: git config --global user.email "kair.nurasyl@gmail.com"
+Инициялизация пустую локальную репозиторию: git init
+Соединение локальную репозиторию с удаленный реп.: git remote add origin git@github.com:nurasylkaiyr/test.git
+Статус: git status
+Добавить определенные файлы для коммита: git add .readme.txt
